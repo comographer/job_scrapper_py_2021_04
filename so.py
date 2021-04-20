@@ -34,4 +34,4 @@ def get_jobs(html):
             job = get_job(item)
             jobs.append(job)
     print(f"Total {len(jobs)} jobs found")
-    print(jobs)
+    return jobs

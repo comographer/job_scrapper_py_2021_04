@@ -4,7 +4,7 @@ Practice Job scrapper with python
 
 User input search
 
-Program will scrap jobs from Indeed and Stackoverflow
+Program will scrap jobs from Stackoverflow.
 
 Scrapped jobs will be saved as .csv.
 
