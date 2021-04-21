@@ -19,3 +19,9 @@ Scrapped jobs will be saved as .csv.
 4. Goes to each page and scrap {title, location, link} for all jobs.
 
 5. Create .csv file with scrapped data.
+
+**Development Note**
+
+_20210421_
+
+- added comments to describe what each functions do
